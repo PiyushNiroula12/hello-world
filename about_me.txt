@@ -1,3 +1,4 @@
 We are gonna learn about the git and git hub. 
 We will also learn python
 my goal is to get a good package by learning all the skills effectively.
+i aim for  a 32 Lakh package
