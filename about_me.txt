@@ -1,0 +1,2 @@
+We are gonna learn about the git and git hub. 
+We will also learn python
